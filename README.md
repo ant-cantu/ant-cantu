@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on an AI web application <br /><br>- 🌱 I’m currently learning Python <br /><br>- 🎓 Computer Science Student <br /><br>- 📎 Documenting my tech journey <br /><br>- ⚡ Fun fact: I've been playing around with code since I was maybe 10 years old. <br /><br>- 💻 Lets connect!
+- 🔭 I’m currently working on an AI web application <br /><br>- 🌱 I’m currently learning React <br /><br>- 🎓 Computer Science Student <br /><br>- 📎 Documenting my tech journey <br /><br>- ⚡ Fun fact: I've been playing around with code since I was maybe 10 years old. <br /><br>- 💻 Lets connect!
 
 
 ## 🌐 Socials:
