@@ -1,11 +1,11 @@
 # 💫 About Me
 
-- 🔭 I’m currently working on an AI web application  
-- 🌱 Actively learning React  
+- 🔭 I’m currently working on an AI web application named Fumbld AI
+- 🌱 Actively learning React, Machine Learning  
 - 🎓 Computer Science student  
-- 📝 Documenting my tech journey  
+- 📝 Documenting my tech journey one line at a time  
 - ⚡ Fun fact: I’ve been experimenting with code since I was about 10 years old  
-- 💻 Let’s connect!
+- 💻 Let’s connect! I'd love to collaborate with you.
 
 ## 💻 Tech Stack
 
