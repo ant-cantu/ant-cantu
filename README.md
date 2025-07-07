@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭 I’m currently working on an AI web application named Fumbld AI
+- 🔭 I’m currently working on an AI web application named <a href="https://github.com/ant-cantu/fumbld-ai-public/">Fumbld AI</a>
 - 🌱 Actively learning React, Machine Learning  
 - 🎓 Computer Science student  
 - 📝 Documenting my tech journey one line at a time  
